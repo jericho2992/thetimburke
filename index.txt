@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>thetimburke Bachelor Party</title>
+  <style>
+body {
+  margin: 0;
+  background-image: radial-gradient(rgb(150, 150, 150), rgb(50, 50, 50));
+  background-repeat: no-repeat;
+}
+.main {
+  min-height: 100vh;
+  min-width: 100vw;
+}
+.title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.body table {
+  background: black;
+  color: white;
+}
+table, th, td {
+  border: 3px solid white;
+  padding: 5px;
+}
+th, td {
+  min-width: 20vw;
+}
+table {
+  border-collapse: collapse;
+}
+  </style>
+</head>
+<body>
+<div class="main">
+  <div class=title>
+    <h1>
+    Who the Fuck is Frank Tichelli?
+    </h1>
+    <h2>
+    A Bachelor Party Campaign
+    </h2>
+  </div>
+  <div class="body">
+    <table>
+    <tr>
+      <th>Player</th>
+      <th>Points</th>
+    </tr>
+    <tr>
+      <td>Tim Burke</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Dave</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Ryan</td>
+      <td>-1000</td>
+    </tr>
+    <tr>
+      <td>Brandon</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>James</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Fabian</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Matt</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Zach</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Marvin</td>
+      <td>0</td>
+    </tr>
+    </table>
+  </div>
+  <div class="bottom-nav">
+    <a href="">Music Link</a>
+  </div>
+</div>
+</body
+</html>
